@@ -1,0 +1,9 @@
+nome = input ('Quais foram as garotas que foram viajar ?')
+onde = input ('Para onde elas foram ?')
+Elas = input ('Elas se divertirão na viagem ?')
+print ('As meninas',nome,'foram para',onde,'e se divertirão',Elas,)
+
+
+
+
+
